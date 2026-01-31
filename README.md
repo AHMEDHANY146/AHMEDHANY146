@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=AHMEDHANY146&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AHMEDHANY146)
 [![GitHub Followers](https://img.shields.io/github/followers/AHMEDHANY146?style=social)](https://github.com/AHMEDHANY146)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhanyahmed/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ah1481200@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Ahmed_Hany14@proton.me)
 
 </div>
 
@@ -24,7 +24,7 @@
 - 🎯 Experienced in data science, data analysis, and AI automation, with a proven track record in freelance projects and corporate environments.
 - 💼 Developed Sustain GRC’s first dashboard, enhancing data visualization and decision-making capabilities for the company.
 - 🚀 Currently leading multiple AI automation projects, leveraging tools like PyTorch, LangChain, and OpenAI to drive innovation and efficiency.
-  - 📫 Reach me at: ah1481200@gmail.com
+  - 📫 Reach me at: Ahmed_Hany14@proton.me
 
 </div>
 
