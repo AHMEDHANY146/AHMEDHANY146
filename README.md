@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ahmed 👋</h1>
 
-<h3 align="center">📊 Data Scientist | 🤖 AI Automation Engineer | 📈 Analytics Expert</h3>
+<h3 align="center">📊 Data Scientist | 🤖 AI Automation Engineer | 📈 Analytics</h3>
 
 <div align="center">
 
